@@ -1,0 +1,5 @@
+30.06.2025
+- did 3 challenges from codewars,
+- learned multiple ways to solve them
+- initialized git repo and pushed both tasks
+- learned how to operate on strings
