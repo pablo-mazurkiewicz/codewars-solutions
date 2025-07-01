@@ -1,4 +1,5 @@
 function isPalindrome(str) {
-  const reversed = str.split('').reverse().join('');
-  return str === reversed;
+const normalized = str.toLowerCase();
+  const reversed = normalized.split('').reverse().join('');
+  return normalized === reversed;
 }
